@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumili Basu</h1>
 <h3 align="center">AI/ML Enthusiast: Crafting Tomorrow’s Tech Today 🤖</h3>
-
-<img align="right" alt="coding" width="400" src="https://github.com/soumilibasu/soumilibasu/assets/115858327/e9bdadf1-e818-4a67-bf5e-4cd2ee635ec4">
-
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumilibasu&label=Profile%20views&color=0e75b6&style=flat" alt="soumilibasu" /> </p>
 
 - 🔭 I’m currently working on **AI/ML Blind Stick Project**
